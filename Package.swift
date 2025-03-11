@@ -22,23 +22,23 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PushwooshFramework",
-            url: "https://github.com/akidison/PRE_ALPHA_iOS/releases/download/1.0.6/PushwooshFramework.xcframework.zip",
-            checksum: "626a972f1cf65347e24ab8a850706beb23dd7295bfdd709495148e3a9a0dbf89"
+            url: "https://github.com/akidison/PRE_ALPHA_iOS/releases/download/1.0.7/PushwooshFramework.xcframework.zip",
+            checksum: "61c32eb63a13c6957a503f321b291a4f5b7c4f3772b1abae85502fec7108e44e"
         ),
         .binaryTarget(
             name: "PushwooshCore",
-            url: "https://github.com/akidison/PRE_ALPHA_iOS/releases/download/1.0.6/PushwooshCore.xcframework.zip",
-            checksum: "305e25249a9f6b8535d38dc73d3089abe665dd660bdbf19f0d4a1ca9309cbdd2"
+            url: "https://github.com/akidison/PRE_ALPHA_iOS/releases/download/1.0.7/PushwooshCore.xcframework.zip",
+            checksum: "a066b2fe819ea0d7f82bccc28f422d6fd652a3c6b27aeccd0fdf5f929c455926"
         ),
         .binaryTarget(
             name: "PushwooshBridge",
-            url: "https://github.com/akidison/PRE_ALPHA_iOS/releases/download/1.0.6/PushwooshBridge.xcframework.zip",
-            checksum: "a53e492c8fea3324875df25afeb1cf2ac3ca7fd100217b6a28514ee144442e8e"
+            url: "https://github.com/akidison/PRE_ALPHA_iOS/releases/download/1.0.7/PushwooshBridge.xcframework.zip",
+            checksum: "9cb520d88aa334d85a4f94469b9228cdcb88a08148ffebddd77d993faeb18735"
         ),
         .binaryTarget(
             name: "PushwooshLiveActivities",
-            url: "https://github.com/akidison/PRE_ALPHA_iOS/releases/download/1.0.6/PushwooshLiveActivities.xcframework.zip",
-            checksum: "d57003d534080beb9e47a0f9a238d176f761033da61dadaa5de2e8f6ec06ac9e"
+            url: "https://github.com/akidison/PRE_ALPHA_iOS/releases/download/1.0.7/PushwooshLiveActivities.xcframework.zip",
+            checksum: "41b1d5226b2580913a183566d5e7700e7e8d1cae8b4b4a98ed11c136b61ed916"
         )
     ]
 )
